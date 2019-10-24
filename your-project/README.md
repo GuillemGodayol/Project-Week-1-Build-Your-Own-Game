@@ -35,6 +35,8 @@ As I knew the game before, I didn't need to check the rules, so the steps I went
 To get organized I used Trello, with 3 columns: Steps, Work in Progress, Finished.
 It helped me to know the pending steps and to decide when to hurry.
 
+<img src="https://github.com/GuillemGodayol/Project-Week-1-Build-Your-Own-Game/blob/master/pictures/Kanban%20Screenshot.png" alt="Trello screenshot" width="400"/>
+
 The repository is quite simple: 
 one folder named 'pictures', where you can find a picture of my Kanban in Trello
 one folder named 'your-project', where you can find this readme.md file, the code (named 'soldiers_&_dice') and the pseudocode.md
