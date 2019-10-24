@@ -22,14 +22,19 @@ The Attacking team must attack with more than 1 soldier, as he can't leave his o
 After the rolls, the player with more alive soldiers wins the battle, and keeps or wins the territory.
 
 ## Workflow
-As I knew the game before, I didn't need to check the rules, so the steps I went through were:
-1. Firs I read the instructions and check the repo, forked and cloned.
-2. Prepare a Kanban in Trello with all the steps.
-3. Decide the software to be used and prepare the .gitignore file.
-4. Prepare the map or pseudocode to get the main ideas or parts for the code.
-5. Write the code.
-6. Test the code and re-write it. 
-7. Update the readme file.
+I organized the code in two sections. The first one is where I define all the functions needed. The second one is the code for the game itself.
+
+The process starts asking for the number of soldiers for each player, and checking if this number fits into the requirements.
+
+After that, the game asks each player how many dice should would like to roll. The function at this point also checks if there is any specific condition that don't allows the player to choose.
+
+Once we have the number of dices, the 'random' function assigns random values to each one.
+
+And after that, it's time to check the maximum of each player's roll and compare. Somebody will loose a soldier! If there are enough dices, the operation its done again. Due to game rules, it can only be done twice.
+
+Now it's time to print the loses for each player and make an update of the number of soldiers. If, according to the rules, there are enough soldiers, the game asks again for the number of dices to be rolled.
+
+If there are no enough soldiers in any of the two players, the game ends.
 
 ## Organization
 To get organized I used Trello, with 3 columns: Steps, Work in Progress, Finished.
