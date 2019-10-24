@@ -1,13 +1,14 @@
 # Steps for coding the 'Soldier & Dice (Risk)' Game:
 
-1. I will ask for the number of DEFFENDERS (soldiers)
-2. I will ask for the number of ATTACKERS (soldiers)
-3. If necessary, I will ask for the number of dices for DEFENDERS
-4. If necessary, I will ask for the number of dices for ATTACKERS
-5. I will random each dice for ATTACKERS and show the results.
-6. I will random each dice for DEFENDERS and show the results.
-7. I will compare the biggests results for each pair ATTACKER - DEFENDER
-8. I will show the results on how many soldiers loses each part / player
+- I will ask for the number of DEFFENDERS (soldiers)
+- I will ask for the number of ATTACKERS (soldiers)
+- Here starts de round.
+- If necessary, I will ask for the number of dices for DEFENDERS
+- If necessary, I will ask for the number of dices for ATTACKERS
+- I will random each dice for ATTACKERS and show the results.
+- I will random each dice for DEFENDERS and show the results.
+- I will compare the biggests results for each pair ATTACKER - DEFENDER
+- I will show the results on how many soldiers loses each part / player
 
 # BONUS
 There are some extra tasks to do if I have enough time:
