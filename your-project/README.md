@@ -35,7 +35,7 @@ As I knew the game before, I didn't need to check the rules, so the steps I went
 To get organized I used Trello, with 3 columns: Steps, Work in Progress, Finished.
 It helped me to know the pending steps and to decide when to hurry.
 
-<img src="https://github.com/GuillemGodayol/Project-Week-1-Build-Your-Own-Game/blob/master/pictures/Kanban%20Screenshot.png" alt="Trello screenshot" width="600"/>
+<img src="https://github.com/GuillemGodayol/Project-Week-1-Build-Your-Own-Game/blob/master/pictures/Kanban%20Screenshot.png" alt="Trello screenshot" width="800"/>
 
 The repository is quite simple: 
 one folder named 'pictures', where you can find a picture of my Kanban in Trello
@@ -45,5 +45,5 @@ one folder named 'your-project', where you can find this readme.md file, the cod
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/GuillemGodayol/Project-Week-1-Build-Your-Own-Game)  
-[Slides](https://slides.com/)  
+[Slides](https://docs.google.com/presentation/d/1f72U4SY5-3CgZkUNhL2g0DEi7R8eKOEL1Wk3FORlM8s/edit?usp=sharing)  
  
