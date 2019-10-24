@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
+# Soldiers & Dice
 *Guillem Godayol*
 
 *[Data Analytics, Barcelona & 10/2019]*
@@ -35,7 +35,7 @@ As I knew the game before, I didn't need to check the rules, so the steps I went
 To get organized I used Trello, with 3 columns: Steps, Work in Progress, Finished.
 It helped me to know the pending steps and to decide when to hurry.
 
-<img src="https://github.com/GuillemGodayol/Project-Week-1-Build-Your-Own-Game/blob/master/pictures/Kanban%20Screenshot.png" alt="Trello screenshot" width="400"/>
+<img src="https://github.com/GuillemGodayol/Project-Week-1-Build-Your-Own-Game/blob/master/pictures/Kanban%20Screenshot.png" alt="Trello screenshot" width="600"/>
 
 The repository is quite simple: 
 one folder named 'pictures', where you can find a picture of my Kanban in Trello
